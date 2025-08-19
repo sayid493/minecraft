@@ -1,0 +1,47 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "sword_stands",
+		"description": "sword_stands Behavior Pack",
+		"uuid": "46274afc-7b9b-41a1-be96-6eb2f766a5f6",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			21,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "ea49cd7d-6f6a-48c5-8589-8f362d50c5cc",
+			"version": [
+				1,
+				0,
+				0
+			]
+			
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "3e04ae55-00ed-b8cf-44e9-6001e2fc8122",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"1.8.5"
+			]
+		}
+	}
+}

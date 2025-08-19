@@ -1,0 +1,294 @@
+{
+	"file_path": "C:\\Users\\adnan\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\sword_stands\\recipes\\miras.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "50327984_cc1d_42ff_ad17_a61e57975fd1",
+	"file_version": 3,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.21.100",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "crafting1"
+						},
+						"pattern": [
+							"#W#",
+							"#S#"
+						],
+						"tags": "crafting_table",
+						"group": "custom_sword",
+						"key": {
+							"#": {
+								"item": "minecraft:wool"
+							},
+							"W": {
+								"item": "minecraft:diamond_sword"
+							},
+							"S": {
+								"item": "minecraft:diamond_block"
+							}
+						},
+						"result": [
+							{
+								"item": "mira:sword_spawn_egg",
+								"count": 1
+							}
+						]
+					}
+				},
+				"data": "1.21.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.21.100",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "crafting1"
+						},
+						"pattern": [
+							"#W#",
+							"#S#"
+						],
+						"tags": "crafting_table",
+						"group": "custom_sword",
+						"key": {
+							"#": {
+								"item": "minecraft:wool"
+							},
+							"W": {
+								"item": "minecraft:diamond_sword"
+							},
+							"S": {
+								"item": "minecraft:diamond_block"
+							}
+						},
+						"result": [
+							{
+								"item": "mira:sword_spawn_egg",
+								"count": 1
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "crafting1"
+							},
+							"pattern": [
+								"#W#",
+								"#S#"
+							],
+							"tags": "crafting_table",
+							"group": "custom_sword",
+							"key": {
+								"#": {
+									"item": "minecraft:wool"
+								},
+								"W": {
+									"item": "minecraft:diamond_sword"
+								},
+								"S": {
+									"item": "minecraft:diamond_block"
+								}
+							},
+							"result": [
+								{
+									"item": "mira:sword_spawn_egg",
+									"count": 1
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "crafting1"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "crafting1"
+							},
+							"pattern": [
+								"#W#",
+								"#S#"
+							],
+							"tags": "crafting_table",
+							"group": "custom_sword",
+							"key": {
+								"#": {
+									"item": "minecraft:wool"
+								},
+								"W": {
+									"item": "minecraft:diamond_sword"
+								},
+								"S": {
+									"item": "minecraft:diamond_block"
+								}
+							},
+							"result": [
+								{
+									"item": "mira:sword_spawn_egg",
+									"count": 1
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"#W#",
+							"#S#"
+						]
+					},
+					{
+						"data": "crafting_table",
+						"key": "tags"
+					},
+					{
+						"data": "custom_sword",
+						"key": "group"
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "crafting1"
+							},
+							"pattern": [
+								"#W#",
+								"#S#"
+							],
+							"tags": "crafting_table",
+							"group": "custom_sword",
+							"key": {
+								"#": {
+									"item": "minecraft:wool"
+								},
+								"W": {
+									"item": "minecraft:diamond_sword"
+								},
+								"S": {
+									"item": "minecraft:diamond_block"
+								}
+							},
+							"result": [
+								{
+									"item": "mira:sword_spawn_egg",
+									"count": 1
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"#": {
+										"item": "minecraft:wool"
+									},
+									"W": {
+										"item": "minecraft:diamond_sword"
+									},
+									"S": {
+										"item": "minecraft:diamond_block"
+									}
+								},
+								"key": "#",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:wool"
+								}
+							},
+							{
+								"open": {
+									"#": {
+										"item": "minecraft:wool"
+									},
+									"W": {
+										"item": "minecraft:diamond_sword"
+									},
+									"S": {
+										"item": "minecraft:diamond_block"
+									}
+								},
+								"key": "W",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:diamond_sword"
+								}
+							},
+							{
+								"open": {
+									"#": {
+										"item": "minecraft:wool"
+									},
+									"W": {
+										"item": "minecraft:diamond_sword"
+									},
+									"S": {
+										"item": "minecraft:diamond_block"
+									}
+								},
+								"key": "S",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:diamond_block"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "crafting1"
+							},
+							"pattern": [
+								"#W#",
+								"#S#"
+							],
+							"tags": "crafting_table",
+							"group": "custom_sword",
+							"key": {
+								"#": {
+									"item": "minecraft:wool"
+								},
+								"W": {
+									"item": "minecraft:diamond_sword"
+								},
+								"S": {
+									"item": "minecraft:diamond_block"
+								}
+							},
+							"result": [
+								{
+									"item": "mira:sword_spawn_egg",
+									"count": 1
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "mira:sword_spawn_egg",
+										"count": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "mira:sword_spawn_egg",
+									"count": 1
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
