@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "sword_stands",
+    "description": "sword_stands Resource Pack",
+    "uuid": "3e04ae55-00ed-b8cf-44e9-6001e2fc8122", 
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "metadata": {
+    "generated_with": {
+      "blockbench_entity_wizard": ["1.7.0"]
+    }
+  },
+  "modules": [
+    {
+      "description": "sword_stands",
+      "type": "resources",
+      "uuid": "561a78a4-8ae4-3c58-0c66-ffcd446a02d8",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "3e04ae55-00ed-b8cf-44e9-6001e2fc8122", 
+      "version": [1, 0, 0] 
+    }
+  ]
+}

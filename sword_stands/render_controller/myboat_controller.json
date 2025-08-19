@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "render_controllers": {
+    "myboat_controller": {
+      "geometry": "geometry.sword",
+      "materials": [
+        {
+          "*": "material.default"
+        }
+      ],
+      "textures": ["texture.entity.sword"]
+    }
+  }
+}

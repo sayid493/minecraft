@@ -1,0 +1,16 @@
+{
+  "format_version": "1.21.100",
+  "animations": {
+    "animation.sword.rotating": {
+      "loop": true,
+      "bones": {
+        "BULUTT": {
+          "rotation": [0, "query.anim_time * 180", 0] 
+        },
+        "HEHBABAPIROKILIC": {
+          "rotation": [0, "query.anim_time * -180", 0] 
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.19.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "myboat",
+      "category": "Misc",
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:use_animation": "none",
+      "minecraft:hand_equipped": false
+    },
+    "events": {
+      "minecraft:use_on": {
+        "sequence": [
+          {
+            "run_command": {
+              "command": "summon sword_stand.myboat"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
